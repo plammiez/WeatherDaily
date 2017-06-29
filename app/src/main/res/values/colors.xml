@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="powerBlue">#9EB9D4</color>
+    <color name="springGreen">#00FF7F</color>
+    <color name="goldenRod">#DAA520</color>
+    <color name="steelBlue">#4682b4</color>
+    <color name="salmon">#FA8072</color>
+    <color name="skyBlue">#40e0d0</color>
+
+    <color name="vw_skyblue">#34e1fb</color>
+    <color name="vw_darkblue">#63bcfb</color>
+    <color name="vw_blue">#8dbafb</color>
+    <color name="vw_pink">#fb93fc</color>
+    <color name="vw_violet">#b9a1fb</color>
+
+    <color name="brown">#a16e4b</color>
+
+</resources>
